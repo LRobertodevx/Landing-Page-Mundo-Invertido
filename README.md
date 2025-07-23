@@ -12,7 +12,7 @@ Este projeto é uma landing page inspirada no universo de Stranger Things, com v
 
 ## Como usar
 Acesse a landing page online pelo link abaixo:
-- []
+- [https://lrobertodevx.github.io/Landing-Page-Mundo-Invertido/]
 
 ## Estrutura
 - `index.html`: página principal
